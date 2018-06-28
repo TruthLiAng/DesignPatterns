@@ -7,8 +7,8 @@
     <ProjectGuid>{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>L_Core</RootNamespace>
-    <AssemblyName>L-Core</AssemblyName>
+    <RootNamespace>L0_Core</RootNamespace>
+    <AssemblyName>L0-Core</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
