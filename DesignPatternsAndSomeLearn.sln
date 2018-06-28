@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ObserverPattern", "2-ObserverPattern\2-ObserverPattern.csproj", "{C70771E3-6ABF-4088-BCC4-0B8BBF4563A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ObserverPattern", "2-ObserverPattern\2-ObserverPattern.csproj", "{C70771E3-6ABF-4088-BCC4-0B8BBF4563A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-StrategyPattern", "1-StrategyPattern\1-StrategyPattern.csproj", "{7FAAE41A-2F20-4B92-A196-6DB4456F8A8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-StrategyPattern", "1-StrategyPattern\1-StrategyPattern.csproj", "{7FAAE41A-2F20-4B92-A196-6DB4456F8A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1-SecurityApi", "L1-SecurityApi\L1-SecurityApi.csproj", "{230D89A9-94AC-41F0-A168-E89FD0F2A482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L0-Core", "L-Core\L0-Core.csproj", "{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{7FAAE41A-2F20-4B92-A196-6DB4456F8A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FAAE41A-2F20-4B92-A196-6DB4456F8A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FAAE41A-2F20-4B92-A196-6DB4456F8A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230D89A9-94AC-41F0-A168-E89FD0F2A482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230D89A9-94AC-41F0-A168-E89FD0F2A482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230D89A9-94AC-41F0-A168-E89FD0F2A482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230D89A9-94AC-41F0-A168-E89FD0F2A482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCCD188-24EC-4BCD-898F-AA1EE09E8196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

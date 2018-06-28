@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/AliPayWeb/Properties/alipay-sdk-NET-3.0.1
+/alipay-sdk-NET-3.0.1
+*.zip
