@@ -25,11 +25,11 @@ namespace L1_SecurityApi.Controllers
             res = verifyHelper.VerifySign(pars); 
             #endregion
 
-            if (string.IsNullOrEmpty(res))
+            if (string.IsNullOrEmpty(res))//验证通过即开始返回数据操作，否则返回错误类的json
             {
                 return "true";
             }
-            else
+            else 
             {
                 return res;
             }
